@@ -8,9 +8,22 @@ Dashy bridges the gap between companies and workers with a premium, dystopian "V
 
 # 🔗 Platform Links
 
-- **Live DApp Terminal:** [Dashy Live Protocol](https://dashy-freelance.vercel.app/)
+- **Live DApp Terminal:** [Dashy Live Protocol]([https://dashy-freelance.vercel.app/](https://dashy-freelance-seven.vercel.app/))
 
 ---
+## Screenshots of the dApp
+
+### Demo Video
+[Click](https://drive.google.com/file/d/1Rv5QwUvCYEGQ-lQXMmXkRBNTE0nmn_G0/view?usp=sharing)
+
+### CI/CD Pipelines
+<img width="1911" height="678" alt="Screenshot 2026-07-29 175320" src="https://github.com/user-attachments/assets/83c1c71b-3293-48ab-b662-7a62685a1b17" />
+
+### Test Cases Passed
+<img width="698" height="425" alt="Screenshot 2026-07-29 165046" src="https://github.com/user-attachments/assets/6135d8f9-b931-4264-a433-589f4a1c7e0a" />
+
+### Mobile Responsive UI
+<img width="597" height="917" alt="Screenshot 2026-07-29 175833" src="https://github.com/user-attachments/assets/ca6dce15-a5b3-445c-8274-d4948be814d6" />
 
 ---
 
@@ -361,29 +374,4 @@ Heavy metadata, textual descriptions, and UI states are handled off-chain to pre
 
 ---
 
-## 19. Screenshots of the dApp
 
-### Demo Video
-
-
-### CI/CD Pipelines
-
-
-### Test Cases Passed
-
-
-### Mobile Responsive UI
-
-
-## Support & Governance
-
-Dashy is an open protocol designed for the community. If you encounter any bugs, discover security vulnerabilities, or have suggestions, please submit your findings via our official uplink:
-
-
-<br/>
-
-<p align="center">
-  <img width="2202" height="363" alt="dashy" src="https://github.com/user-attachments/assets/2de07bd0-c5bf-4a65-9b10-446f564fe30c" /><br>
-  <b>Dashy Protocol</b> — Decentralized Labor Oversight for the Stellar Ecosystem<br>
-  Built with ❤️ on the Stellar Testnet.
-</p>
