@@ -8,13 +8,13 @@ Dashy bridges the gap between companies and workers with a premium, dystopian "V
 
 # 🔗 Platform Links
 
-- **Live DApp Terminal:** [Dashy Live Protocol]([https://dashy-freelance.vercel.app/](https://dashy-freelance-seven.vercel.app/))
+- **Live DApp Terminal:** [Dashy Live Protocol](https://dashy-freelance-seven.vercel.app/)
 
 ---
 ## Screenshots of the dApp
 
 ### Demo Video
-[Click](https://drive.google.com/file/d/1Rv5QwUvCYEGQ-lQXMmXkRBNTE0nmn_G0/view?usp=sharing)
+[Demo Video](https://drive.google.com/file/d/1Rv5QwUvCYEGQ-lQXMmXkRBNTE0nmn_G0/view?usp=sharing)
 
 ### CI/CD Pipelines
 <img width="1911" height="678" alt="Screenshot 2026-07-29 175320" src="https://github.com/user-attachments/assets/83c1c71b-3293-48ab-b662-7a62685a1b17" />
