@@ -543,3 +543,9 @@ footer {
   background: linear-gradient(135deg, rgba(8, 48, 35, 0.8) 0%, rgba(3, 24, 17, 0.65) 100%) !important;
   border: 1px solid rgba(16, 185, 129, 0.3) !important;
 }
+
+/* Theme accent tokens */
+:root {
+  --accent-glow: rgba(59, 130, 246, 0.15);
+  --card-hover-border: rgba(99, 102, 241, 0.3);
+}
