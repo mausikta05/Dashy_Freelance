@@ -328,3 +328,6 @@ const JobDetailsModal = ({ jobId, onClose }) => {
 };
 
 export default JobDetailsModal;
+
+/* Modal backdrop transition fix */
+
