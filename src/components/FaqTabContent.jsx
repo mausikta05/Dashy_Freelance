@@ -83,3 +83,6 @@ const FaqTabContent = ({ role }) => {
 };
 
 export default FaqTabContent;
+
+/* FAQ accordion height smooth animation */
+
