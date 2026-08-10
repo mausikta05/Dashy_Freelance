@@ -86,3 +86,6 @@ export default FaqTabContent;
 
 /* FAQ accordion height smooth animation */
 
+
+/* Payment and payouts FAQ entries added */
+
