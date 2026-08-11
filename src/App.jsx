@@ -28,3 +28,6 @@ function App() {
 }
 
 export default App;
+
+// ToastNotification registered
+
