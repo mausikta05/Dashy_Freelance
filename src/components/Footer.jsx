@@ -55,3 +55,6 @@ const Footer = () => {
 };
 
 export default Footer;
+
+/* Social media icons grid & 2026 copyright notice */
+
