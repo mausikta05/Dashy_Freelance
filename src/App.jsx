@@ -31,3 +31,6 @@ export default App;
 
 // ToastNotification registered
 
+
+// Theme preference persistent storage
+
