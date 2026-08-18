@@ -177,3 +177,6 @@ export default DashboardLayout;
 
 // Integrate PaginationControl into job feed
 
+
+// StatusBadge rendering for job status
+
