@@ -293,3 +293,6 @@
 
 .toast { position: fixed; bottom: 20px; right: 20px; padding: 12px 20px; border-radius: 8px; backdrop-filter: blur(10px); z-index: 1000; animation: slideIn 0.3s ease; }
 @keyframes slideIn { from { transform: translateY(100%); opacity: 0; } to { transform: translateY(0); opacity: 1; } }
+
+.job-card { transition: transform 0.2s ease, box-shadow 0.2s ease; }
+.job-card:hover { transform: translateY(-2px); box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1); }
