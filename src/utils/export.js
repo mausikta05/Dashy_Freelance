@@ -11,3 +11,8 @@ export function exportToCSV(filename, rows) {
   link.click();
   document.body.removeChild(link);
 }
+
+export function exportFilteredDateRange(rows, startDate, endDate) {
+  const filtered = rows.filter(r => new Date(r.date) >= new Date(startDate) && new Date(r.date) <= new Date(endDate));
+  exportToCSV('filtered_report.csv', filtered);
+}
