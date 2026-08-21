@@ -33,22 +33,22 @@ const Header = ({ onFeedbackClick, onAuthClick, onConnectClick }) => {
         <div style={{ display: 'flex', gap: '20px', alignItems: 'center' }}>
           <div style={{ display: 'flex', gap: '20px' }}>
 
-            <button 
+            <button aria-label='Toggle Navigation' 
               className="btn-outline" 
               onClick={() => window.open('https://stellar-network-pgt.vercel.app/', '_blank')}
               style={{ padding: '8px 20px', fontSize: '0.9rem' }}
             >
               PAYMENTS
             </button>
-            <button className="btn-outline" onClick={onFeedbackClick} style={{ padding: '8px 20px', fontSize: '0.9rem' }}>
+            <button aria-label='Toggle Navigation' className="btn-outline" onClick={onFeedbackClick} style={{ padding: '8px 20px', fontSize: '0.9rem' }}>
               FEEDBACK
             </button>
             {window.location.pathname.includes('/dashboard') ? (
-              <button className="btn-luxury" onClick={() => window.location.href = '/'} style={{ padding: '8px 25px', fontSize: '0.9rem', fontWeight: 'bold', background: 'transparent', border: '1px solid #ff4444', color: '#ff4444' }}>
+              <button aria-label='Toggle Navigation' className="btn-luxury" onClick={() => window.location.href = '/'} style={{ padding: '8px 25px', fontSize: '0.9rem', fontWeight: 'bold', background: 'transparent', border: '1px solid #ff4444', color: '#ff4444' }}>
                 LOG OUT
               </button>
             ) : (
-              <button className="btn-luxury" onClick={onAuthClick} style={{ padding: '8px 25px', fontSize: '0.9rem', fontWeight: 'bold' }}>
+              <button aria-label='Toggle Navigation' className="btn-luxury" onClick={onAuthClick} style={{ padding: '8px 25px', fontSize: '0.9rem', fontWeight: 'bold' }}>
                 LOGIN/SIGNUP
               </button>
             )}
@@ -59,7 +59,7 @@ const Header = ({ onFeedbackClick, onAuthClick, onConnectClick }) => {
               <div style={{ fontSize: '0.8rem', color: 'var(--text-dim)', fontWeight: 'bold', letterSpacing: '1px' }}>
                 STATUS: <span style={{ color: '#ff4444' }}>OFFLINE</span>
               </div>
-              <button 
+              <button aria-label='Toggle Navigation' 
                 onClick={onConnectClick} 
                 style={{ 
                   background: 'transparent', 
@@ -97,7 +97,7 @@ const Header = ({ onFeedbackClick, onAuthClick, onConnectClick }) => {
                   {balance} <span style={{ color: 'var(--primary)', fontSize: '0.75rem' }}>XLM</span>
                 </div>
               </div>
-              <button 
+              <button aria-label='Toggle Navigation' 
                 onClick={disconnectWallet}
                 style={{ 
                   background: '#ff4444', 
