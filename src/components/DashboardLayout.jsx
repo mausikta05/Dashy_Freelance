@@ -180,3 +180,6 @@ export default DashboardLayout;
 
 // StatusBadge rendering for job status
 
+
+// trackEvent('job_click') attached
+
