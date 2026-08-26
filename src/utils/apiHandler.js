@@ -5,3 +5,6 @@ export async function handleApiResponse(response) {
   }
   return response.json();
 }
+
+/* Contextual error alert logging */
+
