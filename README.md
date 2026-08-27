@@ -375,3 +375,11 @@ Heavy metadata, textual descriptions, and UI states are handled off-chain to pre
 ---
 
 
+
+## Component Structure
+- Header.jsx: Main navbar & theme toggle
+- DashboardLayout.jsx: Responsive job board container
+- JobDetailsModal.jsx: Modal popup with applicant details
+- StatusBadge.jsx: Color-coded status tags
+- ToastNotification.jsx: Feedback messages
+
